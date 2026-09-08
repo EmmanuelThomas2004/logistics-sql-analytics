@@ -1,0 +1,10 @@
+Delivery Performance
+Find the average delivery time for each delivery region and identify regions where the average delivery time exceeds 5 days.
+Late Deliveries
+Calculate the percentage of orders delivered late for each logistics provider.
+Shipping Cost Analysis
+Find the top 5 destinations with the highest total shipping costs.
+Warehouse Performance
+Calculate the total number of shipments processed by each warehouse and identify the warehouse with the highest shipment volume.
+Vehicle Utilization
+Find vehicles that completed more than 20 deliveries and calculate their average delivery distance.
